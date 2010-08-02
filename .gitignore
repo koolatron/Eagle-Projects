@@ -1,0 +1,9 @@
+# Schematic and board undo history, EAGLE creates these automatically but we only want to track the data, and not the backups.
+*.b#*
+*.s#*
+# Retired designs that we no longer wish to track
+.historical
+# cam output
+cam/*
+# archived files
+archive/*
