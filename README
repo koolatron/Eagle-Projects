@@ -1,0 +1,16 @@
+Eagle schematic capture/pcb projects:
+
+Currently active:
+    (iv4_4lw_1.2.2_usb_nodiscrete)  IV-4 based four-letter-word clock gadget thingy.  Now runs on DC and has a USB port for some ungodly reason.
+                                    This project currently lacks a BOM, and is pretty technically challenging to solder yourself.  As I revise
+                                    the layout, I'll add the necessary information to get things built yourself, as well as relaxing the board
+                                    layout itself.
+
+                                    The verbose name indicates that it it's version 1.2.2 (duh), has usb (duh duh), and does not use discrete grid
+                                    drivers for the IV4 tubes, as previous iterations did.
+
+    (iv4_6lw_1.0_usb)               A pipe dream for right now.  Similar to the above project, but with 6 letters instead of 4.  My version of
+                                    EAGLE isn't capable enough to design boards of the needed size, so unless I get creatie this isn't going to
+                                    happen any time soon.
+
+    (minixie)                       NL-5440/A clock/display project.  Currently languishing, but I refuse to retire it.
