@@ -4,6 +4,8 @@
 # Retired designs that we no longer wish to track
 .historical
 # cam output
-cam/*
+*/cam
+*/cam/*
 # archived files
-archive/*
+*/archive
+*/archive/*
