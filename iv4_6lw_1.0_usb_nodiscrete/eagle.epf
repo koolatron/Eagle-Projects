@@ -75,14 +75,21 @@ UsedLibrary="/Applications/EAGLE/lbr/Eagle-Libraries/Connectors/con-lsta.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/Eagle-Libraries/Connectors/con-hdrs40.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/Eagle-Libraries/Vendors/allegro.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/Eagle-Libraries/Unsorted/rcl.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/Eagle-Libraries/Vendors/maxim.lbr"
 
 [Win_1]
+Type="Control Panel"
+Loc="84 225 1359 713"
+State=2
+Number=0
+
+[Win_2]
 Type="Board Editor"
 Loc="420 222 1019 621"
-State=2
-Number=1
-File="iv4_4lw_1.2.2_dev.brd"
-View="-39306 -161786 939658 530170"
+State=0
+Number=2
+File="iv4_6lw_1.0.brd"
+View="-39306 -13992 939658 527272"
 WireWidths=" 0 2540 3048 6096 8128 10160 12700 14224 16764 17780 19304 21844 25400 38100 64516 4064"
 PadDiameters=" 2540 3048 4064 6096 8128 10160 12700 14224 16764 17780 19304 21844 25400 38100 64516 0"
 PadDrills=" 5000 6000 7000 9000 10000 11000 12000 13000 14000 15000 16000 20000 22000 28000 32000 8000"
@@ -114,12 +121,6 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=16
-
-[Win_2]
-Type="Control Panel"
-Loc="84 225 1359 713"
-State=2
-Number=0
 
 [Desktop]
 Screen="1440 900"
